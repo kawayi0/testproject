@@ -1,0 +1,107 @@
+[{
+	"title" : "后台首页",
+	"icon" : "icon-computer",
+	"href" : "page/main.html",
+	"spread" : false
+}
+
+
+
+,{
+	"title" : "用户管理",
+	"icon" : "&#xe630;",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+		{
+			"title" : "全部用户",
+			"icon" : "&#xe61c;",
+			"href" : "page/member/memberlist.html",
+			"spread" : false
+		}
+	]
+}
+
+,{
+	"title" : "我的用户",
+	"icon" : "&#xe630;",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+		{
+			"title" : "全部用户",
+			"icon" : "&#xe61c;",
+			"href" : "page/my_member/my_memberlist.html",
+			"spread" : false
+		}
+	]
+}
+
+
+
+
+
+
+
+,{
+	"title" : "文章列表",
+	"icon" : "icon-text",
+	"href" : "page/news/newsList.html",
+	"spread" : false
+},{
+	"title" : "友情链接",
+	"icon" : "&#xe64c;",
+	"href" : "page/links/linksList.html",
+	"spread" : false
+},{
+	"title" : "系统基本参数",
+	"icon" : "&#xe631;",
+	"href" : "page/systemParameter/systemParameter.html",
+	"spread" : false
+},{
+	"title" : "帮助中心",
+	"icon" : "&#xe630;",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+		{
+			"title" : "新增问题",
+			"icon" : "&#xe61c;",
+			"href" : "page/qa/qaAdd.html",
+			"spread" : false
+		},{
+			"title" : "问题管理",
+			"icon" : "&#xe61c;",
+			"href" : "page/qa/qaList.html",
+			"spread" : false
+		},{
+			"title" : "类型管理",
+			"icon" : "&#xe61c;",
+			"href" : "page/qa/qaList.html",
+			"spread" : false
+		}
+	]
+}
+
+
+,{
+	"title" : "其他页面",
+	"icon" : "&#xe630;",
+	"href" : "",
+	"spread" : false,
+	"children" : [
+		{
+			"title" : "404页面",
+			"icon" : "&#xe61c;",
+			"href" : "page/404.html",
+			"spread" : false
+		},
+		{
+			"title" : "登录",
+			"icon" : "&#xe609;",
+			"href" : "page/login/login.html",
+			"spread" : false,
+			"target" : "_blank"
+		}
+	]
+}]

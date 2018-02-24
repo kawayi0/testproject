@@ -1,0 +1,14 @@
+{
+    "cmsName": "后台管理",
+    "version": "v2.0.1",
+    "author": "tc",
+    "homePage": "index.html",
+    "server": "windows",
+    "dataBase": "8.00.2039",
+    "maxUpload": "200M",
+    "userRights": "管理员",
+    "description": "后台管理",
+    "powerby": "copyright @2017",
+    "record": "沪ICP备14040xxx号-1",
+    "keywords": "拍片网"
+}
